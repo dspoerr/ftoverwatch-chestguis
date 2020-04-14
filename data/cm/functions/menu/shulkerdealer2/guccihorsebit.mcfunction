@@ -9,5 +9,6 @@ execute if score @s FortCurrency >= gss_guccihorsebit guccishulkershop run funct
 execute if score @s FortCurrency < gss_guccihorsebit guccishulkershop run scoreboard players add dealer gss_notenough 5
 execute if score @s FortCurrency < gss_guccihorsebit guccishulkershop run function cm:menu/shulkerdealer2/dealernobuy
 
+# update currency
 execute if score @s FortCurrency >= gss_guccihorsebit guccishulkershop run scoreboard players remove @s FortCurrency 1125
 title @s actionbar ["",{"text":"You now have ","bold":true},{"score":{"name":"@p","objective":"FortCurrency"},"bold":true,"color":"gold"},{"text":" CBux."}]

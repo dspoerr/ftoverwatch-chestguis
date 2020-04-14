@@ -6,3 +6,5 @@ execute if score selection chest_menu matches 0 run say ERROR
 
 # Teleports the player to the shulker dealer's realm
 execute if score selection chest_menu matches 1 run function cm:menu/shulkerdealer1/tptodealer
+
+execute if score selection chest_menu matches 1.. run function cm:menu/shulkerdealer1/update

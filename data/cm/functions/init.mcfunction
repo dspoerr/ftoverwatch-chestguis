@@ -8,7 +8,7 @@ scoreboard players set gss_hampton guccishulkershop 3275
 scoreboard players set gss_lilgucci guccishulkershop 750
 scoreboard players set gss_marmont guccishulkershop 1575
 scoreboard players set gss_odyssee guccishulkershop 1850
-scoreboard players set gss_orgasmique guccishulkershop 750
+scoreboard players set gss_guccibasic guccishulkershop 750
 scoreboard players set gss_overpriced guccishulkershop 31125
 scoreboard players set gss_ozzieaussie guccishulkershop 2350
 scoreboard players set gss_plexiglass guccishulkershop 1750
